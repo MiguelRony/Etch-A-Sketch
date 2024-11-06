@@ -24,8 +24,8 @@ body{
 #container {
     display: flex;
     flex-direction: column;
-    width: 750px;
-    height: 750px;
+    width: 650px;
+    height: 650px;
     background-color: white;
 }
 
